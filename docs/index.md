@@ -1,4 +1,86 @@
+---
+layout: default
+title: Right to Reality
+description: Our commitment to [statement].
+---
+
 # Right to Reality
 
-## Principles to appear here.
+> [A short, powerful opening statement that captures the essence of our mission.]
 
+---
+
+## Our Values
+
+Through our work, we have come to value:
+
+- **[Value 1]** over [what it replaces]
+- **[Value 2]** over [what it replaces]
+- **[Value 3]** over [what it replaces]
+- **[Value 4]** over [what it replaces]
+
+That is, while there is value in the items on the right, we value the items on the left more.
+
+---
+
+## Our Principles
+
+### 1. [Principle Name]
+[Describe the principle and why it matters to humanity.]
+
+### 2. [Principle Name]
+[Describe the principle and why it matters to humanity.]
+
+### 3. [Principle Name]
+[Describe the principle and why it matters to humanity.]
+
+### 4. [Principle Name]
+[Describe the principle and why it matters to humanity.]
+
+### 5. [Principle Name]
+[Describe the principle and why it matters to humanity.]
+
+### 6. [Principle Name]
+[Describe the principle and why it matters to humanity.]
+
+### 7. [Principle Name]
+[Describe the principle and why it matters to humanity.]
+
+### 8. [Principle Name]
+[Describe the principle and why it matters to humanity.]
+
+### 9. [Principle Name]
+[Describe the principle and why it matters to humanity.]
+
+### 10. [Principle Name]
+[Describe the principle and why it matters to humanity.]
+
+### 11. [Principle Name]
+[Describe the principle and why it matters to humanity.]
+
+### 12. [Principle Name]
+[Describe the principle and why it matters to humanity.]
+
+---
+
+## Our Practices
+
+| Practice        | Cadence        | Purpose                              |
+|----------------|----------------|--------------------------------------|
+| [Practice 1]   | [Frequency]    | [What it achieves]                   |
+| [Practice 2]   | [Frequency]    | [What it achieves]                   |
+| [Practice 3]   | [Frequency]    | [What it achieves]                   |
+| [Practice 4]   | [Frequency]    | [What it achieves]                   |
+| [Practice 5]   | [Frequency]    | [What it achieves]                   |
+
+---
+
+## Get Involved
+
+[Describe how others can participate, contribute, or learn more.]
+
+[[Link Label]](#){: .btn} [[Link Label]](#){: .btn} [[Link Label]](#){: .btn}
+
+---
+
+*[Footer: attribution, version, date, or founding statement.]*
