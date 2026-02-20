@@ -8,7 +8,7 @@ baseurl: "/docs"
 author:
   name: "Vagner Santana"
   email: "vsantana@nic.br"
-
+  
 # Theme
 remote_theme: pages-themes/slate@v0.2.0
 plugins:
@@ -28,8 +28,6 @@ permalink: pretty
 
 # Exclude from build
 exclude:
-  - Gemfile
-  - Gemfile.lock
   - node_modules
   - vendor
   - README.md
