@@ -2,7 +2,7 @@
 title: "Right to Reality"
 description: "Website to host content from CRAFT event, part of FAccT 2026."
 url: "https://cewebbr.github.io/"
-baseurl: "/right-to-reality/docs" 
+baseurl: "/right-to-reality" 
 
 # Author
 author:
