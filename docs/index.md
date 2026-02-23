@@ -4,7 +4,7 @@ title: Right to Reality
 description: Our commitment to [statement].
 ---
 
-## Our Mission
+# Our Mission
 
 > [A short, powerful opening statement that captures the essence of our mission.]
 
