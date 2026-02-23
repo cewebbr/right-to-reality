@@ -77,9 +77,15 @@ That is, while there is value in the items on the right, we value the items on t
 
 ## Get Involved
 
-[Describe how others can participate, contribute, or learn more.]
+You can get involved with this community in different ways:
 
-[[Link Label]](#){: .btn} [[Link Label]](#){: .btn} [[Link Label]](#){: .btn}
+- To contribute to this document, [create an issue](https://github.com/cewebbr/right-to-reality/issues)
+- To engage with this commumity, [look out for the next events](#)
+- To learn more, [checkount the list of materials and related publications](#)
+
+## Signatories
+
+- [List of people and orgs. signing this document]
 
 ---
 
