@@ -17,6 +17,9 @@ plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
 
+feed:
+  enabled: false
+  
 # Markdown & Syntax Highlighting
 markdown: kramdown
 highlighter: rouge
