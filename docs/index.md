@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Right to Reality
+title: Right to Reality Manifesto
 description: Our commitment to [statement].
 ---
 
