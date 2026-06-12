@@ -51,3 +51,9 @@ defaults:
       type: "posts"
     values:
       layout: "default"
+
+site_styles:
+  primary_color: "#092D46"
+  secondary_color: "#ffffff"
+  text_color: "#C0E1D7"
+  font_heading: "'Helvetica Neue', sans-serif"
