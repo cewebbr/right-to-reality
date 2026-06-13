@@ -13,6 +13,11 @@ author:
 # remote_theme: pages-themes/slate@v0.2.0
 remote_theme: brandoncardoso/hima
 
+hima: 
+   colorscheme: dark
+   background_color: "#092D46"
+   font_color: "#C0E1D7"
+   
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
@@ -52,6 +57,3 @@ defaults:
     values:
       layout: "default"
 
-# Colors
-background_color: "#092D46"
-font_color: "#C0E1D7"
