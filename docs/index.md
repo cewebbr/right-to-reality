@@ -40,53 +40,68 @@ That is, while acknowledging taht items on the right are in place, we value the 
 
 ## Our Principles
 
-### 1. [Principle Name]
-[Describe the principle and why it matters to humanity.]
+### 1. Privacy/impact based of AI influence
+Privacy and impact deppend on domains and the influence that AI plays in taks in these dominas.
 
-### 2. [Principle Name]
-[Describe the principle and why it matters to humanity.]
+### 2. AI influence in matter of public interest should be limited
+People must place boundaries to AI influence in matters of public interest.
 
-### 3. [Principle Name]
-[Describe the principle and why it matters to humanity.]
+### 3. Ban intentionally malicious/misleading uses of AI
+Governments must ban intentionally malicious/misleading uses of AI.
 
-### 4. [Principle Name]
-[Describe the principle and why it matters to humanity.]
+### 4. Continuous auditing for risk to people and society
+AI applucations must be continuously audited by independent organizations aiming at reducing the risk to people and society.
 
-### 5. [Principle Name]
-[Describe the principle and why it matters to humanity.]
+### 5. Mechanisms of institutional accountability
+IT companies must be accountable for technologies they create the same way other high stakes companies are.
 
-### 6. [Principle Name]
-[Describe the principle and why it matters to humanity.]
+### 6. Pushing for more authonomy
+People must be autonomous while interacting with AI that generate synthetic content.
 
-### 7. [Principle Name]
-[Describe the principle and why it matters to humanity.]
+### 7. Power to the consumer
+People must be able to opt in/out of AI-generated content and also opt in/out of data collection.
 
-### 8. [Principle Name]
-[Describe the principle and why it matters to humanity.]
+### 8. AI literacy in education curricula
+People must be aware of what AI is capable of.
 
-### 9. [Principle Name]
-[Describe the principle and why it matters to humanity.]
+### 9. Enforcement of existing laws should reach AI
+Before creating new laws, we must guarantee that existing laws are enforced where technologies are deployed.
 
-### 10. [Principle Name]
-[Describe the principle and why it matters to humanity.]
+### 10. Using doubt to push for more regulation
+Before creating new laws, we must dwelve into existing laws that can be applied in the AI ecosystem.
 
-### 11. [Principle Name]
-[Describe the principle and why it matters to humanity.]
+### 11. AI-free spaces
+People must be allowed to have AI-free physical and virtual spaces.
 
-### 12. [Principle Name]
-[Describe the principle and why it matters to humanity.]
+### 12. Polithical decisions should be done face to face
+High stake decisions in politics should be done face to face.
 
----
+### 13. Accountability everywhere
+Accountability should be always tied to a human institution, traceable, and not absolvable.
 
-## Our Practices
+### 14. Transparency and proeminent and granular AI disclosure
+AI-generated content should be followed by disclamers and warnings.
 
-| Practice        | Cadence        | Purpose                              |
-|----------------|----------------|--------------------------------------|
-| [Practice 1]   | [Frequency]    | [What it achieves]                   |
-| [Practice 2]   | [Frequency]    | [What it achieves]                   |
-| [Practice 3]   | [Frequency]    | [What it achieves]                   |
-| [Practice 4]   | [Frequency]    | [What it achieves]                   |
-| [Practice 5]   | [Frequency]    | [What it achieves]                   |
+### 15. Explicit consent
+People must consent when interacting with synthetic content.
+
+### 16. Not placing the burden on the individual
+Organizations creating, deploying, and monetizing on technologies must not place the burden on the individual for uses of tecnology. 
+
+### 17. High stakes domains must be free of synthetic
+Domains such as news, science, governance, and healthcare, as well as other high stakes domains must be free of synthetic content.
+
+### 18. Design for everyone by default
+All people must be considered in the design of technologies, not simply conforming to the mean or "normal."
+
+### 19. Reconcile non-AI alternatives
+People must be able to reconcile non-AI alternatives to tasks at hand.
+
+### 20. Privacy and publicity to all  
+People must be able to access information and resources, to communicate and have meaninful connectivity, to have privacy, and to be heard equally.
+
+### 21. One click = do not use my date for training
+People must be able to use a single action (e.g., click, tuch, gesture, voice command, etc.) to express their rights on not allowing their data to be used for training models responsible for generating synthetic data.
 
 ---
 
