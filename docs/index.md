@@ -29,12 +29,12 @@ We envision that this session will result in a draft document with principles ai
 
 Through our work, we have come to value:
 
-- **[Value 1]** over [what it replaces]
-- **[Value 2]** over [what it replaces]
-- **[Value 3]** over [what it replaces]
-- **[Value 4]** over [what it replaces]
+- **Choice** over defaults
+- **Human agency** over techno-solutionism
+- **Communal decision-making** over centralized decision-making
+- **Doubt** over complacency
 
-That is, while there is value in the items on the right, we value the items on the left more.
+That is, while acknowledging taht items on the right are in place, we value the items on the left more.
 
 ---
 
