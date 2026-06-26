@@ -41,7 +41,7 @@ That is, while acknowledging taht items on the right are in place, we value the 
 ## Our Principles
 
 ### 1. Privacy/impact based of AI influence
-Privacy and impact deppend on domains and the influence that AI plays in taks in these dominas.
+Privacy and impact depend on domains and the influence that AI plays in tasks in these domains.
 
 ### 2. AI influence in matter of public interest should be limited
 People must place boundaries to AI influence in matters of public interest.
@@ -50,12 +50,12 @@ People must place boundaries to AI influence in matters of public interest.
 Governments must ban intentionally malicious/misleading uses of AI.
 
 ### 4. Continuous auditing for risk to people and society
-AI applucations must be continuously audited by independent organizations aiming at reducing the risk to people and society.
+AI applications must be continuously audited by independent organizations aiming at reducing the risk to people and society.
 
 ### 5. Mechanisms of institutional accountability
 IT companies must be accountable for technologies they create the same way other high stakes companies are.
 
-### 6. Pushing for more authonomy
+### 6. Pushing for more autonomy
 People must be autonomous while interacting with AI that generate synthetic content.
 
 ### 7. Power to the consumer
@@ -68,25 +68,25 @@ People must be aware of what AI is capable of.
 Before creating new laws, we must guarantee that existing laws are enforced where technologies are deployed.
 
 ### 10. Using doubt to push for more regulation
-Before creating new laws, we must dwelve into existing laws that can be applied in the AI ecosystem.
+Before creating new laws, we must delve  into existing laws that can be applied in the AI ecosystem.
 
 ### 11. AI-free spaces
 People must be allowed to have AI-free physical and virtual spaces.
 
-### 12. Polithical decisions should be done face to face
+### 12. Political  decisions should be done face to face
 High stake decisions in politics should be done face to face.
 
 ### 13. Accountability everywhere
 Accountability should be always tied to a human institution, traceable, and not absolvable.
 
-### 14. Transparency and proeminent and granular AI disclosure
-AI-generated content should be followed by disclamers and warnings.
+### 14. Transparency, prominent, and granular AI disclosure
+AI-generated content should be followed by disclaimers and warnings.
 
 ### 15. Explicit consent
 People must consent when interacting with synthetic content.
 
 ### 16. Not placing the burden on the individual
-Organizations creating, deploying, and monetizing on technologies must not place the burden on the individual for uses of tecnology. 
+Organizations creating, deploying, and monetizing on technologies must not place the burden on the individual for uses of technology. 
 
 ### 17. High stakes domains must be free of synthetic
 Domains such as news, science, governance, and healthcare, as well as other high stakes domains must be free of synthetic content.
@@ -98,10 +98,10 @@ All people must be considered in the design of technologies, not simply conformi
 People must be able to reconcile non-AI alternatives to tasks at hand.
 
 ### 20. Privacy and publicity to all  
-People must be able to access information and resources, to communicate and have meaninful connectivity, to have privacy, and to be heard equally.
+People must be able to access information and resources, to communicate and have meaningful connectivity, to have privacy, and to be heard equally.
 
 ### 21. One click = do not use my date for training
-People must be able to use a single action (e.g., click, tuch, gesture, voice command, etc.) to express their rights on not allowing their data to be used for training models responsible for generating synthetic data.
+People must be able to use a single action (e.g., click, touch, gesture, voice command, etc.) to express their rights on not allowing their data to be used for training models responsible for generating synthetic data.
 
 ---
 
