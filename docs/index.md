@@ -34,7 +34,7 @@ Through our work, we have come to value:
 - **Communal decision-making** over centralized decision-making
 - **Doubt** over complacency
 
-That is, while acknowledging taht items on the right are in place, we value the items on the left more.
+That is, while acknowledging that items on the right are in place, we value the items on the left more.
 
 ---
 
