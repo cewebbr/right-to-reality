@@ -21,7 +21,7 @@ We envision that this session will result in a draft document with principles ai
 
 # Our Mission
 
-> [A short, powerful opening statement that captures the essence of our mission.]
+> Guarantee that any human-being can easily tell the difference between real and synthetic multimedia content.
 
 ---
 
