@@ -114,10 +114,10 @@ During the session, the rationale was to lead participants to discuss on princip
 The session then took 2 hours and included an introduction to discuss existing signals on the challenges related to the lack of right to reality, artifacts to be used such as the futures cone (Figure 1), and the 2x2 scenario matrix contrasting scenarios with participative/voiceless Majority World in a world with/without Right to Reality (Figure 2). 
 Then, a context for the term Majority World was presented, contrasting what has formerly been referred to as “Third World,” “Developing World,” or “Least Developed Countries” ([Alam, 2008](https://www.tandfonline.com/doi/abs/10.17953/amer.34.1.l3176027k4q614v5)). The term Majority World aims at highlighting that the countries usually placed in lower tiers are in a group representing the majority of humankind, challenging the West’s rhetoric of democracy ([Alam, 2008](https://www.tandfonline.com/doi/abs/10.17953/amer.34.1.l3176027k4q614v5)).
 
-![Concentric cones representing present on the left and multiple possible futures on the right such as preferable, probable, plausible, and possible futures.](/docs/assets/images/futures_cone_adapted.png){: width="50%"}
+<div style="background-color: #fff;"><img src="/docs/assets/images/futures_cone_adapted.png" width="50%" alt="Concentric cones representing present on the left and multiple possible futures on the right such as preferable, probable, plausible, and possible futures."></div>
 Figure 1. Futures Cone (adapted from [Dunne and Raby, 2013](https://mitpress.mit.edu/9780262019842/speculative-everything/))
 
-![Two by two scenario matrix presenting a driver in the vertical axis with majority world being voiceless vs. vocal and the horizontal axis presenting a world with vs. without the Right to Reality.](/docs/assets/images/scenario_matrix.png){: width="50%"}
+<div><img src="/assets/images/scenario_matrix.png" width="50%" alt="Two by two scenario matrix presenting a driver in the vertical axis with majority world being voiceless vs. vocal and the horizontal axis presenting a world with vs. without the Right to Reality."></div>
 Figure 2. Two by two scenario matrix (adapted from [UN Global Pulse, 2025](https://foresight.unglobalpulse.net/blog/tools/2x2-matrix-scenario-building/)).
 
 After the initial introduction, the participatory practice took place. For this, four groups of 4-6 people were formed. A total of 21 conference attendees participated in the session. 
