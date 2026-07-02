@@ -19,7 +19,7 @@ Through our work, we have come to value:
 - **Communal decision-making** over centralized decision-making
 - **Doubt** over complacency
 
-That is, we value the items on the left as a way to mitigate risks brought by items on the right.
+That is, we value the items on the left as a way to mitigate risks related to items on the right.
 
 ---
 
