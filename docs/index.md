@@ -4,8 +4,6 @@ title: Right to Reality Manifesto
 description: Our mision is to guarantee that any human-being can easily tell the difference between real and synthetic multimedia content.
 ---
 
-# Right to Reality Manifesto
-
 ## Our Mission
 
 > Guarantee that any human-being can easily tell the difference between real and synthetic multimedia content.
@@ -121,7 +119,7 @@ Each group focused on one of the four scenarios from the 2x2 scenario matrix.
 Groups were then invided to think about two headlines of a newspaper 10 years from now, considering the scenario assinged to the group.
 
 The goal of this speculative design was to serve as a ‘probe’ for highlighting legal and ethical aspects ([Dunne and Raby, 2013](https://mitpress.mit.edu/9780262019842/speculative-everything/)).
-An initial set of artifacts was provided to trigger discussions, including a user interface with a toggle for AI content, LLM-vegan bumper sticker, a label 100% AI-free (as an analogy to 100% gluten free), and a notebook sticker that reads infovegan to represent people that opt to consume information as close to the its source as possible (Clay, 2008).
+An initial set of artifacts was provided to trigger discussions, including a user interface with a toggle for AI content, LLM-vegan bumper sticker, a label 100% AI-free (as an analogy to 100% gluten free), and a notebook sticker that reads infovegan to represent people that opt to consume information as close to the its source as possible ([Clay, 2008](https://www.amazon.com.br/Information-Diet-Ca-Johnson/dp/1491933399)).
 
 After defining the headlines, each group shared them with all participants. With the two news headlines in hands, groups were invited to reflect on 5-10 principles for a manifesto to address issues idenfied in the headlines, as a way to anticipate critical scenarios reported on the headlines.
 
@@ -163,16 +161,16 @@ TBD
 
 ## Cite as
 
-Right to Reality Manifesto. 2026. Santana, V. F., Cortiz, D., Rocha, B., Custodio, J., Xavier H. S. 2026. https://cewebbr.github.io/right-to-reality/
+Right to Reality Manifesto. 2026. Santana, V. F., Cortiz, D., Rocha, B., Custodio, J., Xavier H. S. https://cewebbr.github.io/right-to-reality/. Version 1.0.
 
 ```bib
 @online{Santana2026,
   author       = {Vagner Figueredo de Santana and Diogo Cortiz and Beatriz Rocha and Jacqueline Custodio and Henrique S. Xavier},
   title        = {Right to Reality Manifesto},
   year         = {2026},
-  url          = {https://www.lawfaremedia.org/article/the-right-to-reality},
+  url          = {https://cewebbr.github.io/right-to-reality/},
   note         = {Version 1.0}
 }
 ```
 
-* Right to Reality Manifesto. Version: 1.0 *
+* Right to Reality Manifesto. Version 1.0 *
