@@ -1,4 +1,9 @@
 name: Deploy Jekyll Site
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
 on:
   push:
     branches: ["main"]
