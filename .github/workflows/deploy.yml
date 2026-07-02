@@ -10,7 +10,7 @@ permissions:
 
 jobs:
   deploy:
-    runs-with: ubuntu-latest
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
       - uses: actions/configure-pages@v5
