@@ -24,6 +24,9 @@ jobs:
         uses: actions/jekyll-build-pages@v1
         with:
           source: ./docs
+          destination: ./_site
+          # This forces Jekyll to read the config file inside the docs folder
+          build_opts: "--config ./docs/_config.yml" 
 
       - name: Upload Artifact
         uses: actions/upload-pages-artifact@v3
