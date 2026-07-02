@@ -129,18 +129,19 @@ An initial set of artifacts was provided to trigger discussions, including a use
 
 Examples of headlines proposed by workshop participants include:
 - Agents Spearhead Victory: Landslide Election Win for AI Figurehead of Pro-Technica Party Ushered by AI Voters
-- There is no Money In Fake Anymore
+- There is No Money in Fake Anymore
 - Local Government Cracking Down on Deepfakes on an All Time High
 - Proof of Humanity Required for Online Content: Who Can Prove That They Are Human
-- Human Verification Center Now Open; You can skip the line for a fee
+- Human Verification Center Now Open; You Can Skip the Line For a Fee
 
-After defining the headlines, each group shared them with all participants. With the two news headlines in hands, groups were invited to reflect on 5-10 principles for a manifesto to address issues idenfied in the headlines, as a way to anticipate critical scenarios reported on the headlines.
+After defining the headlines, each group shared them with all participants. With the two news headlines in hands, groups were invited to reflect on 5-10 principles for a manifesto to address issues idenfied in the headlines, as a way to anticipate critical scenarios from these speculatuve futures.
 
-Groups registered principles on sticky notes and worked on this core task for about 50min. Each group then shared principles with all participants and proposed an initial affinity clustering. Each new group presenting could reuse or expand the affinity clustering proposed by the previous group. In total, 27 initial principles were proposed and the consolidated list is presented here.
-
+Groups registered principles on sticky notes and worked on this task for about 50min. Each group then shared principles with all participants and proposed an initial affinity clustering. 
+Each new group presenting could reuse or create new clusters. 
+In total, 27 principles were proposed and the consolidated list is presented in this manifesto.
 At the end of the session, each group was invited to reflect on one core value for the manifesto, resulting in the initial set of four values.
 
-Finally, the version 1.0 of the Right to Reality Manifesto presented here is the original result from this in-person gathering during FAccT 2026.
+Finally, the version 1.0 of the Right to Reality Manifesto presented here is the result from this in-person gathering at FAccT 2026.
 
 ---
 
