@@ -158,7 +158,7 @@ You can get involved with this community in different ways:
 
 | Event | Where | When |
 | --- | --- | --- |
-| In-person participatory workshop [Speculative Futures in a Majority World with no Right to Reality](https://facctconference.org/2026/acceptedcraft.html) | Le Centre Sheraton Montréal Hotel, Montreal, Canada | June 25th, 14:15 ET |
+| In-person participatory workshop [Speculative Futures in a Majority World with no Right to Reality](https://facctconference.org/2026/acceptedcraft.html) | Le Centre Sheraton Montréal Hotel, Montreal, Canada | June 25th, 2026, 14:15 ET |
 
 ---
 
