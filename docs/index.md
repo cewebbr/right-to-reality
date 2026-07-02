@@ -107,12 +107,9 @@ We envision that this session will result in a draft document with principles ai
 
 ### CRAFT Session Short Report
 
-The session was performed as an in-person workshop during FAccT 2026, in Montreal, Canada. The main goal of the session was to promote reflections on challenges and speculate about solutions for a world permeated with synthetic content. With this, we expected to form an assembly to debate and create a policy-oriented draft for this manifesto, including stakeholders often not present or not heard in such discussions.
-
-During the session, the rationale was to lead participants to discuss on principles for the Right to Reality while bringing different realities and experiences.
+The session was performed as an in-person participatory workshop during FAccT 2026, in Montreal, Canada. The goal of the session was to promote reflections on challenges and speculate about solutions for a world permeated with synthetic content. With this, we expected to form an assembly to debate and create a policy-oriented draft for this manifesto, including stakeholders often not present or not heard in such discussions. During the session, the rationale was to lead participants to discuss on principles for the Right to Reality while bringing different realities and experiences.
 
 The session then took 2 hours and included an introduction to discuss existing signals on the challenges related to the lack of right to reality, artifacts to be used such as the futures cone (Figure 1), and the 2x2 scenario matrix contrasting scenarios with participative/voiceless Majority World in a world with/without Right to Reality (Figure 2). 
-Then, a context for the term Majority World was presented, contrasting what has formerly been referred to as “Third World,” “Developing World,” or “Least Developed Countries” ([Alam, 2008](https://www.tandfonline.com/doi/abs/10.17953/amer.34.1.l3176027k4q614v5)). The term Majority World aims at highlighting that the countries usually placed in lower tiers are in a group representing the majority of humankind, challenging the West’s rhetoric of democracy ([Alam, 2008](https://www.tandfonline.com/doi/abs/10.17953/amer.34.1.l3176027k4q614v5)).
 
 <div style="background-color: #fff;"><img src="/right-to-reality/assets/images/futures_cone_adapted.png" width="50%" alt="Concentric cones representing present on the left and multiple possible futures on the right such as preferable, probable, plausible, and possible futures."></div>
 Figure 1. Futures Cone (adapted from [Dunne and Raby, 2013](https://mitpress.mit.edu/9780262019842/speculative-everything/))
@@ -120,12 +117,22 @@ Figure 1. Futures Cone (adapted from [Dunne and Raby, 2013](https://mitpress.mit
 <div><img src="/right-to-reality/assets/images/scenario_matrix.png" width="50%" alt="Two by two scenario matrix presenting a driver in the vertical axis with majority world being voiceless vs. vocal and the horizontal axis presenting a world with vs. without the Right to Reality."></div>
 Figure 2. Two by two scenario matrix (adapted from [UN Global Pulse, 2025](https://foresight.unglobalpulse.net/blog/tools/2x2-matrix-scenario-building/)).
 
-After the initial introduction, the participatory practice took place. For this, four groups of 4-6 people were formed. A total of 21 conference attendees participated in the session. 
-Each group focused on one of the four scenarios from the 2x2 scenario matrix. 
+Then, a context for the term Majority World was presented, contrasting what has formerly been referred to as “Third World,” “Developing World,” or “Least Developed Countries” ([Alam, 2008](https://www.tandfonline.com/doi/abs/10.17953/amer.34.1.l3176027k4q614v5)). The term Majority World aims at highlighting that the countries usually placed in lower tiers are in a group representing the majority of humankind, challenging the West's rhetoric of democracy ([Alam, 2008](https://www.tandfonline.com/doi/abs/10.17953/amer.34.1.l3176027k4q614v5)).
+
+After the initial introduction, the participatory practice took place. For this, four groups of 4-6 people were formed. 
+A total of 21 conference attendees participated in the session. 
+Each group focused on one of the four scenarios from the 2x2 scenario matrix (Figure 2). 
 Groups were then invided to think about two headlines of a newspaper 10 years from now, considering the scenario assinged to the group.
 
-The goal of this speculative design was to serve as a ‘probe’ for highlighting legal and ethical aspects ([Dunne and Raby, 2013](https://mitpress.mit.edu/9780262019842/speculative-everything/)).
+The goal of this speculative design was to serve as a 'probe' for highlighting legal and ethical aspects ([Dunne and Raby, 2013](https://mitpress.mit.edu/9780262019842/speculative-everything/)).
 An initial set of artifacts was provided to trigger discussions, including a user interface with a toggle for AI content, LLM-vegan bumper sticker, a label 100% AI-free (as an analogy to 100% gluten free), and a notebook sticker that reads infovegan to represent people that opt to consume information as close to the its source as possible ([Clay, 2008](https://www.amazon.com.br/Information-Diet-Ca-Johnson/dp/1491933399)).
+
+Examples of headlines proposed by workshop participants include:
+- Agents Spearhead Victory: Landslide Election Win for AI Figurehead of Pro-Technica Party Ushered by AI Voters
+- There is no Money In Fake Anymore
+- Local Government Cracking Down on Deepfakes on an All Time High
+- Proof of Humanity Required for Online Content: Who Can Prove That They Are Human
+- Human Verification Center Now Open; You can skip the line for a fee
 
 After defining the headlines, each group shared them with all participants. With the two news headlines in hands, groups were invited to reflect on 5-10 principles for a manifesto to address issues idenfied in the headlines, as a way to anticipate critical scenarios reported on the headlines.
 
@@ -149,7 +156,9 @@ You can get involved with this community in different ways:
 
 ## Events
 
-TBD
+| Event | Where | When |
+| --- | --- | --- |
+| In-person participatory workshop [Speculative Futures in a Majority World with no Right to Reality](https://facctconference.org/2026/acceptedcraft.html) | Le Centre Sheraton Montréal Hotel, Montreal, Canada | June 25th, 14:15 ET |
 
 ---
 
