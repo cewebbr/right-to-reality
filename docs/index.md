@@ -147,7 +147,9 @@ Each new group presenting could reuse or create new clusters.
 In total, 27 principles were proposed and the consolidated list is presented in this manifesto.
 At the end of the session, each group was invited to reflect on one core value for the manifesto, resulting in the initial set of four values.
 
-Finally, the version 1.0 of the Right to Reality Manifesto presented here is the result from this in-person gathering at FAccT 2026.
+The version 1.0 of the Right to Reality Manifesto presented here is the result from this in-person gathering at FAccT 2026.
+Finally, given that the [Chatham House rule](https://www.chathamhouse.org/about-us/chatham-house-rule) was followed, no video was taken and no data was recorded without participants' consent. 
+Participants that agreed to be part of this document are listed as co-author in [cite as](#cite_as) section.
 
 ---
 
