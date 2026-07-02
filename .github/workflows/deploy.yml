@@ -16,6 +16,13 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
+
+      # Installs a high-speed, cached Ruby environment
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.3'
+          bundler-cache: true 
       
       - name: Setup Pages
         uses: actions/configure-pages@v5
@@ -25,8 +32,7 @@ jobs:
         with:
           source: ./docs
           destination: ./_site
-          # This forces Jekyll to read the config file inside the docs folder
-          build_opts: "--config ./docs/_config.yml" 
+          build_opts: "--config ./docs/_config.yml"
 
       - name: Upload Artifact
         uses: actions/upload-pages-artifact@v3
