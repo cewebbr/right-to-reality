@@ -17,25 +17,20 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      # Installs a high-speed, cached Ruby environment
-      - name: Setup Ruby
-        uses: ruby/setup-ruby@v1
-        with:
-          ruby-version: '3.3'
-          bundler-cache: true 
-      
       - name: Setup Pages
         uses: actions/configure-pages@v5
 
-      - name: Build with Jekyll from docs folder
+      # This utilizes GitHub's automated server image to natively parse subfolders
+      - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
         with:
           source: ./docs
-          destination: ./_site
-          build_opts: "--config ./docs/_config.yml"
+          destination: ./docs/_site
 
       - name: Upload Artifact
         uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./docs/_site
 
       - name: Deploy to GitHub Pages
         id: deployment
