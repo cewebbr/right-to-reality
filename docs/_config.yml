@@ -19,8 +19,9 @@ hima:
    font_color: "#C0E1D7"
    
 plugins:
-  - jekyll-remote-theme
-  - jekyll-seo-tag
+  # - jekyll-remote-theme
+  # - jekyll-seo-tag
+  - github-pages
 
 feed:
   enabled: false
