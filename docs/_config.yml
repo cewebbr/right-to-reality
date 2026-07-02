@@ -14,7 +14,7 @@ author:
 remote_theme: brandoncardoso/hima
 
 hima: 
-   # colorscheme: dark
+   colorscheme: dark
    background_color: "#092D46"
    font_color: "#C0E1D7"
    
