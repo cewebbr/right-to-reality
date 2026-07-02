@@ -1,25 +1,12 @@
 ---
 layout: default
 title: Right to Reality Manifesto
-description: Our commitment to [statement].
+description: Our mision is to guarantee that any human-being can easily tell the difference between real and synthetic multimedia content.
 ---
 
-# About
+# Right to Reality Manifesto
 
-This initiative was born with the proposal of a CRAFT (Critiquing and Rethinking Accountability, Fairness, and Transparency) session, at [ACM Conference on Fairness, Accountability, and Transparency](https://facctconference.org/) (FAccT 2026), entitled "[Speculative Futures in a Majority World with no Right to Reality](https://facctconference.org/2026/acceptedcraft.html)."
-
-## CRAFT Descprition
-
-Generative Artificial Intelligence (GenAI) and its synthetic outcomes are now a hype(d), omnipresent thing forcing us to continuously ask ourselves: is this real? As GenAI technologies evolve, the hints we still have to grasp on uncanny synthetic content, such as malformed hands in images and homogenized textual content, are growing thin. Hence, in the near future, humans (and machines) will struggle to differentiate real from synthetic, impacting domains such as politics, consumer, and human relationships, potentially rendering GenAI as a Weapon of Math Destruction ([O’Neil, 2017](https://dl.acm.org/doi/10.5555/3002861)), damaging at scale in an opaque way.
-
-The [Universal Declaration of Human Rights (UDHR)](https://www.un.org/en/about-us/universal-declaration-of-human-rights) states that everyone has the right to “freedom to hold opinions without interference.” When we reflect about being genuine in consumer relations, [United Nations Guidelines for Consumer Protection](https://unctad.org/system/files/official-document/ditccplpmisc2016d1_en.pdf) present that Member States should cooperate in “combating fraudulent and deceptive cross-border commercial practices.” Regarding AI, the [Organization for Economic Co-operation and Development (OECD)](https://oecd.ai/en/dashboards/ai-principles/P6) proposes that AI organizations should respect human rights, including “addressing misinformation and disinformation amplified by AI, while respecting freedom of expression.”
-Hence, by connecting these principles, we have supporting freedom of expression while preventing deceptive, misinformative practices. But how are these affected by synthetic content? How might this content interfere on how people perceive and engage with the world around them? Who are the ones pushing us to an online life as a solution to the “Reality Privilege”? Who are the ones monetizing on this narrative? While authors propose Right to Reality under human dignity lens ([Su, 2025](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5475527)) or as a disclosure requirement ([Frazier, 2026](https://www.lawfaremedia.org/article/the-right-to-reality); [W3C, 2026](https://www.w3.org/community/ai-content-disclosure/)), we propose discussing Right to Reality from the Majority World lens ([Alam, 2008](https://doi.org/10.17953/amer.34.1.l3176027k4q614v5)), encompassing more complex contexts of creation and use of technology ([Becerra Sandoval et al., 2025](https://dl.acm.org/doi/10.1145/3712310)).
-
-In this session, we propose a workshop to invite different points of view to question how and why synthetic content is being forced as a non-negotiable future for everyone, leading to an emergent need for the Right to Reality. The session will follow the [Chatham House rule](https://www.chathamhouse.org/about-us/chatham-house-rule) to promote different ideas and critical views from participants without disclosing details about individuals nor organizations. Moreover, Speculative Design will be employed ([Dunne and Raby, 2013](https://mitpress.mit.edu/9780262019842/speculative-everything/)) to promote discussions on principles for anticipating challenges of living in a world where synthetic content is the norm and governed by few.
-
-We envision that this session will result in a draft document with principles aiming at showing why the Right to Reality is needed. By inviting attendees to reflect during a Speculative Design activity, we expect to produce a draft for a Right to Reality Manifesto to be published in a dedicated website so that participants and FAccT community can iterate and dialogue with the results produced during the session.
-
-# Our Mission
+## Our Mission
 
 > Guarantee that any human-being can easily tell the difference between real and synthetic multimedia content.
 
@@ -105,13 +92,68 @@ People must be able to use a single action (e.g., click, touch, gesture, voice c
 
 ---
 
+## About
+
+This initiative was born with the proposal of a CRAFT (Critiquing and Rethinking Accountability, Fairness, and Transparency) session, at [ACM Conference on Fairness, Accountability, and Transparency](https://facctconference.org/) (FAccT 2026), entitled "[Speculative Futures in a Majority World with no Right to Reality](https://facctconference.org/2026/acceptedcraft.html)."
+
+### CRAFT Original Descprition
+
+Generative Artificial Intelligence (GenAI) and its synthetic outcomes are now a hype(d), omnipresent thing forcing us to continuously ask ourselves: is this real? As GenAI technologies evolve, the hints we still have to grasp on uncanny synthetic content, such as malformed hands in images and homogenized textual content, are growing thin. Hence, in the near future, humans (and machines) will struggle to differentiate real from synthetic, impacting domains such as politics, consumer, and human relationships, potentially rendering GenAI as a Weapon of Math Destruction ([O’Neil, 2017](https://dl.acm.org/doi/10.5555/3002861)), damaging at scale in an opaque way.
+
+The [Universal Declaration of Human Rights (UDHR)](https://www.un.org/en/about-us/universal-declaration-of-human-rights) states that everyone has the right to “freedom to hold opinions without interference.” When we reflect about being genuine in consumer relations, [United Nations Guidelines for Consumer Protection](https://unctad.org/system/files/official-document/ditccplpmisc2016d1_en.pdf) present that Member States should cooperate in “combating fraudulent and deceptive cross-border commercial practices.” Regarding AI, the [Organization for Economic Co-operation and Development (OECD)](https://oecd.ai/en/dashboards/ai-principles/P6) proposes that AI organizations should respect human rights, including “addressing misinformation and disinformation amplified by AI, while respecting freedom of expression.”
+Hence, by connecting these principles, we have supporting freedom of expression while preventing deceptive, misinformative practices. But how are these affected by synthetic content? How might this content interfere on how people perceive and engage with the world around them? Who are the ones pushing us to an online life as a solution to the “Reality Privilege”? Who are the ones monetizing on this narrative? While authors propose Right to Reality under human dignity lens ([Su, 2025](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5475527)) or as a disclosure requirement ([Frazier, 2026](https://www.lawfaremedia.org/article/the-right-to-reality); [W3C, 2026](https://www.w3.org/community/ai-content-disclosure/)), we propose discussing Right to Reality from the Majority World lens ([Alam, 2008](https://doi.org/10.17953/amer.34.1.l3176027k4q614v5)), encompassing more complex contexts of creation and use of technology ([Becerra Sandoval et al., 2025](https://dl.acm.org/doi/10.1145/3712310)).
+
+In this session, we propose a workshop to invite different points of view to question how and why synthetic content is being forced as a non-negotiable future for everyone, leading to an emergent need for the Right to Reality. The session will follow the [Chatham House rule](https://www.chathamhouse.org/about-us/chatham-house-rule) to promote different ideas and critical views from participants without disclosing details about individuals nor organizations. Moreover, Speculative Design will be employed ([Dunne and Raby, 2013](https://mitpress.mit.edu/9780262019842/speculative-everything/)) to promote discussions on principles for anticipating challenges of living in a world where synthetic content is the norm and governed by few.
+
+We envision that this session will result in a draft document with principles aiming at showing why the Right to Reality is needed. By inviting attendees to reflect during a Speculative Design activity, we expect to produce a draft for a Right to Reality Manifesto to be published in a dedicated website so that participants and FAccT community can iterate and dialogue with the results produced during the session.
+
+### CRAFT Session Short Report
+
+The session was performed as an in-person workshop during FAccT 2026, in Montreal, Canada. The main goal of the session was to promote reflections on challenges and speculate about solutions for a world permeated with synthetic content. With this, we expected to form an assembly to debate and create a policy-oriented draft for this manifesto, including stakeholders often not present or not heard in such discussions.
+
+During the session, the rationale was to lead participants to discuss on principles for the Right to Reality while bringing different realities and experiences.
+
+The session then took 2 hours and included an introduction to discuss existing signals on the challenges related to the lack of right to reality, artifacts to be used such as the futures cone (Figure 1), and the 2x2 scenario matrix contrasting scenarios with participative/voiceless Majority World in a world with/without Right to Reality (Figure 2). 
+Then, a context for the term Majority World was presented, contrasting what has formerly been referred to as “Third World,” “Developing World,” or “Least Developed Countries” ([Alam, 2008](https://www.tandfonline.com/doi/abs/10.17953/amer.34.1.l3176027k4q614v5)). The term Majority World aims at highlighting that the countries usually placed in lower tiers are in a group representing the majority of humankind, challenging the West’s rhetoric of democracy ([Alam, 2008](https://www.tandfonline.com/doi/abs/10.17953/amer.34.1.l3176027k4q614v5)).
+
+After the initial introduction, the participatory practice took place. For this, four groups of 4-6 people were formed. A total of 21 conference attendees participated in the session. 
+Each group focused on one of the four scenarios from the 2x2 scenario matrix. 
+Groups were then invided to think about two headlines of a newspaper 10 years from now, considering the scenario assinged to the group.
+
+The goal of this speculative design was to serve as a ‘probe’ for highlighting legal and ethical aspects ([Dunne and Raby, 2013](https://mitpress.mit.edu/9780262019842/speculative-everything/)).
+An initial set of artifacts was provided to trigger discussions, including a user interface with a toggle for AI content, LLM-vegan bumper sticker, a label 100% AI-free (as an analogy to 100% gluten free), and a notebook sticker that reads infovegan to represent people that opt to consume information as close to the its source as possible (Clay, 2008).
+
+After defining the headlines, each group shared them with all participants. With the two news headlines in hands, groups were invited to reflect on 5-10 principles for a manifesto to address issues idenfied in the headlines, as a way to anticipate critical scenarios reported on the headlines.
+
+Groups registered principles on sticky notes and worked on this core task for about 50min. Each group then shared principles with all participants and proposed an initial affinity clustering. Each new group presenting could reuse or expand the affinity clustering proposed by the previous group. In total, 27 initial principles were proposed and the consolidated list is presented here.
+
+At the end of the session, each group was invited to reflect on one core value for the manifesto, resulting in the initial set of four values.
+
+Finally, the version 1.0 of the Right to Reality Manifesto presented here is the original result from this in-person gathering during FAccT 2026.
+
+---
+
 ## Get Involved
 
 You can get involved with this community in different ways:
 
 - To contribute to this document, [create an issue](https://github.com/cewebbr/right-to-reality/issues)
-- To engage with this commumity, [look out for the next events](#)
-- To learn more, [checkount the list of materials and related publications](#)
+- To engage with this commumity, [look out for the next events](#events)
+- To learn more, [checkout the list of materials and related publications](#publications)
+
+---
+
+## Events
+
+TBD
+
+---
+
+## Publications
+
+TBD
+
+---
 
 ## Signatories
 
@@ -119,4 +161,18 @@ You can get involved with this community in different ways:
 
 ---
 
-*[Footer: attribution, version, date, or founding statement.]*
+## Cite as
+
+Right to Reality Manifesto. 2026. Santana, V. F., Cortiz, D., Rocha, B., Custodio, J., Xavier H. S. 2026. https://cewebbr.github.io/right-to-reality/
+
+```bib
+@online{Santana2026,
+  author       = {Vagner Figueredo de Santana and Diogo Cortiz and Beatriz Rocha and Jacqueline Custodio and Henrique S. Xavier},
+  title        = {Right to Reality Manifesto},
+  year         = {2026},
+  url          = {https://www.lawfaremedia.org/article/the-right-to-reality},
+  note         = {Version 1.0}
+}
+```
+
+* Right to Reality Manifesto. Version: 1.0 *
