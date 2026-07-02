@@ -28,65 +28,65 @@ That is, while acknowledging that items on the right are in place, we value the 
 ### 1. Privacy/impact based of AI influence
 Privacy and impact depend on domains and the influence that AI plays in tasks in these domains.
 
-### 2. AI influence in matter of public interest should be limited
-People must place boundaries to AI influence in matters of public interest.
-
-### 3. Ban intentionally malicious/misleading uses of AI
-Governments must ban intentionally malicious/misleading uses of AI.
-
-### 4. Continuous auditing for risk to people and society
-AI applications must be continuously audited by independent organizations aiming at reducing the risk to people and society.
-
-### 5. Mechanisms of institutional accountability
-IT companies must be accountable for technologies they create the same way other high stakes companies are.
-
-### 6. Pushing for more autonomy
-People must be autonomous while interacting with AI that generate synthetic content.
-
-### 7. Power to the consumer
-People must be able to opt in/out of AI-generated content and also opt in/out of data collection.
-
-### 8. AI literacy in education curricula
-People must be aware of what AI is capable of.
-
-### 9. Enforcement of existing laws should reach AI
-Before creating new laws, we must guarantee that existing laws are enforced where technologies are deployed.
-
-### 10. Using doubt to push for more regulation
-Before creating new laws, we must delve  into existing laws that can be applied in the AI ecosystem.
-
-### 11. AI-free spaces
-People must be allowed to have AI-free physical and virtual spaces.
-
-### 12. Political  decisions should be done face to face
-High stake decisions in politics should be done face to face.
-
-### 13. Accountability everywhere
-Accountability should be always tied to a human institution, traceable, and not absolvable.
-
-### 14. Transparency, prominent, and granular AI disclosure
-AI-generated content should be followed by disclaimers and warnings.
-
-### 15. Explicit consent
-People must consent when interacting with synthetic content.
-
-### 16. Not placing the burden on the individual
-Organizations creating, deploying, and monetizing on technologies must not place the burden on the individual for uses of technology. 
-
-### 17. High stakes domains must be free of synthetic
-Domains such as news, science, governance, and healthcare, as well as other high stakes domains must be free of synthetic content.
-
-### 18. Design for everyone by default
-All people must be considered in the design of technologies, not simply conforming to the mean or "normal."
-
-### 19. Reconcile non-AI alternatives
-People must be able to reconcile non-AI alternatives to tasks at hand.
-
-### 20. Privacy and publicity to all  
+### 2. Privacy and publicity to all  
 People must be able to access information and resources, to communicate and have meaningful connectivity, to have privacy, and to be heard equally.
 
-### 21. One click = do not use my date for training
+### 3. Transparency, prominent, and granular AI disclosure
+AI-generated content should be followed by disclaimers and warnings.
+
+### 4. Explicit consent
+People must consent when interacting with synthetic content.
+
+### 5. Not placing the burden on the individual
+Organizations creating, deploying, and monetizing on technologies must not place the burden on the individual for uses of technology. 
+
+### 6. One click = do not use my date for training
 People must be able to use a single action (e.g., click, touch, gesture, voice command, etc.) to express their rights on not allowing their data to be used for training models responsible for generating synthetic data.
+
+### 7. AI influence in matter of public interest should be limited
+People must place boundaries to AI influence in matters of public interest.
+
+### 8. High stakes domains must be free of synthetic
+Domains such as news, science, governance, and healthcare, as well as other high stakes domains must be free of synthetic content.
+
+### 9. Political  decisions should be done face to face
+High stake decisions in politics should be done face to face.
+
+### 10. Enforcement of existing laws should reach AI
+Before creating new laws, we must guarantee that existing laws are enforced where technologies are deployed.
+
+### 11. Using doubt to push for more regulation
+Before creating new laws, we must delve into existing laws that can be applied in the AI ecosystem.
+
+### 12. Ban intentionally malicious/misleading uses of AI
+Governments must ban intentionally malicious/misleading uses of AI.
+
+### 13. AI-free spaces
+People must be allowed to have AI-free physical and virtual spaces.
+
+### 14. Reconcile non-AI alternatives
+People must be able to reconcile non-AI alternatives to tasks at hand.
+
+### 15. Continuous auditing for risk to people and society
+AI applications must be continuously audited by independent organizations aiming at reducing the risk to people and society.
+
+### 16. Mechanisms of institutional accountability
+IT companies must be accountable for technologies they create the same way other high stakes companies are.
+
+### 17. Pushing for more autonomy
+People must be autonomous while interacting with AI that generate synthetic content.
+
+### 18. Accountability everywhere
+Accountability should be always tied to a human institution, traceable, and not absolvable.
+
+### 19. AI literacy in education curricula
+People must be aware of what AI is capable of.
+
+### 20. Power to the consumer
+People must be able to opt in/out of AI-generated content and also opt in/out of data collection.
+
+### 21. Design for everyone by default
+All people must be considered in the design of technologies, not simply conforming to the mean or "normal."
 
 ---
 
@@ -114,7 +114,7 @@ The session then took 2 hours and included an introduction to discuss existing s
 <div style="background-color: #fff; text-align: center;"><img src="/right-to-reality/assets/images/futures_cone_adapted.png" width="50%" alt="Concentric cones representing present on the left and multiple possible futures on the right such as preferable, probable, plausible, and possible futures."></div>
 Figure 1. Futures Cone (adapted from [Dunne and Raby, 2013](https://mitpress.mit.edu/9780262019842/speculative-everything/))
 
-<div style="text-align: center;"><img src="/right-to-reality/assets/images/scenario_matrix.png" width="100%" alt="Two by two scenario matrix presenting a driver in the vertical axis with majority world being voiceless vs. vocal and the horizontal axis presenting a world with vs. without the Right to Reality."></div>
+<div style="background-color: #fff; text-align: center;"><img src="/right-to-reality/assets/images/scenario_matrix.png" width="90%" alt="Two by two scenario matrix presenting a driver in the vertical axis with majority world being voiceless vs. vocal and the horizontal axis presenting a world with vs. without the Right to Reality."></div>
 Figure 2. Two by two scenario matrix (adapted from [UN Global Pulse, 2025](https://foresight.unglobalpulse.net/blog/tools/2x2-matrix-scenario-building/)).
 
 Then, a context for the term Majority World was presented, contrasting what has formerly been referred to as “Third World,” “Developing World,” or “Least Developed Countries” ([Alam, 2008](https://www.tandfonline.com/doi/abs/10.17953/amer.34.1.l3176027k4q614v5)). The term Majority World aims at highlighting that the countries usually placed in lower tiers are in a group representing the majority of humankind, challenging the West's rhetoric of democracy ([Alam, 2008](https://www.tandfonline.com/doi/abs/10.17953/amer.34.1.l3176027k4q614v5)).
