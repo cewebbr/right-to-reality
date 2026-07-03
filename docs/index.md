@@ -171,17 +171,15 @@ You can get involved with this community in different ways:
 
 ---
 
-## Publications
+<!-- ## Publications -->
 
-TBD
+<!-- TBD -->
 
----
+<!-- --- -->
 
-## Signatories
+<!-- ## Signatories -->
 
-- [List of people and orgs. signing this document]
-
----
+<!-- - [List of people and orgs. signing this document] -->
 
 ## Cite as
 
@@ -201,7 +199,7 @@ Version 1.0.
 
 ```bib
 @online{Santana_et_al_2026,
-  author       = {
+  author = {
     Vagner Figueredo de Santana and
     Diogo Cortiz and
     Beatriz Rocha and
@@ -213,10 +211,10 @@ Version 1.0.
     Florian Carichon and
     Angelie Kraft 
   },
-  title        = {Right to Reality Manifesto},
-  year         = {2026},
-  url          = {https://cewebbr.github.io/right-to-reality/},
-  note         = {Version 1.0}
+  title = {Right to Reality Manifesto},
+  year = {2026},
+  url = {https://cewebbr.github.io/right-to-reality/},
+  note = {Version 1.0}
 }
 ```
 
