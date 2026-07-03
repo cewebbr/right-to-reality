@@ -185,11 +185,34 @@ TBD
 
 ## Cite as
 
-Right to Reality Manifesto. 2026. Santana, V. F., Cortiz, D., Rocha, B., Custodio, J., Xavier H. S. https://cewebbr.github.io/right-to-reality/. Version 1.0.
+Right to Reality Manifesto. 2026. 
+Santana, V. F., 
+Cortiz, D., 
+Rocha, B., 
+Custodio, J., 
+Xavier, H. S., 
+Schertel, L. N. da C., 
+Chien, J., 
+Shukla, N.,
+Carichon, F.,
+Kraft, Ag., 
+https://cewebbr.github.io/right-to-reality/. 
+Version 1.0.
 
 ```bib
 @online{Santana_et_al_2026,
-  author       = {Vagner Figueredo de Santana and Diogo Cortiz and Beatriz Rocha and Jacqueline Custodio and Henrique S. Xavier},
+  author       = {
+    Vagner Figueredo de Santana and
+    Diogo Cortiz and
+    Beatriz Rocha and
+    Jacqueline Custodio and
+    Henrique S. Xavier and
+    Lara Neubauer da Costa Schertel and
+    Jennifer Chien and
+    Nishanshi Shukla and
+    Florian Carichon and
+    Angelie Kraft 
+  },
   title        = {Right to Reality Manifesto},
   year         = {2026},
   url          = {https://cewebbr.github.io/right-to-reality/},
