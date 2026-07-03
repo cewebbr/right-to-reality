@@ -189,11 +189,11 @@ Cortiz, D.,
 Rocha, B., 
 Custodio, J., 
 Xavier, H. S., 
-Schertel, L. N. da C., 
-Chien, J., 
-Shukla, N.,
 Carichon, F.,
+Chien, J., 
 Kraft, Ag., 
+Schertel, L. N. da C., 
+Shukla, N.,
 https://cewebbr.github.io/right-to-reality/. 
 Version 1.0.
 
@@ -205,11 +205,11 @@ Version 1.0.
     Beatriz Rocha and
     Jacqueline Custodio and
     Henrique S. Xavier and
-    Lara Neubauer da Costa Schertel and
-    Jennifer Chien and
-    Nishanshi Shukla and
     Florian Carichon and
-    Angelie Kraft 
+    Jennifer Chien and
+    Angelie Kraft and
+    Lara Neubauer da Costa Schertel and
+    Nishanshi Shukla
   },
   title = {Right to Reality Manifesto},
   year = {2026},
