@@ -221,7 +221,9 @@ Version 1.0.
 
 ## Changelog
 
-- Version 1.0 (July/1st/2026): Consolidation of results from participatory workshop organized as part of the FAccT 2026 program.
+| Version | Date | Notes |
+| --- | --- | --- |
+| Version 1.0 | July/1st/2026 | Consolidation of results from the participatory workshop organized as part of the FAccT 2026 program. |
 
 ---
 
