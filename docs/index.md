@@ -192,6 +192,7 @@ Xavier, H. S.,
 Carichon, F.,
 Chien, J., 
 Ganesh, P.,
+He, J.
 Kraft, Ag., 
 Schertel, L. N. da C., 
 Shukla, N.,
@@ -209,6 +210,7 @@ Version 1.0.
     Florian Carichon and
     Jennifer Chien and
     Prakhar Ganesh and
+    Jessica He and
     Angelie Kraft and
     Lara Neubauer da Costa Schertel and
     Nishanshi Shukla
