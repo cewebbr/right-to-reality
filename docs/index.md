@@ -149,7 +149,7 @@ At the end of the session, each group was invited to reflect on one core value f
 
 The version 1.0 of the Right to Reality Manifesto presented here is the result from this in-person gathering at FAccT 2026.
 Finally, given that the [Chatham House rule](https://www.chathamhouse.org/about-us/chatham-house-rule) was followed, no video was taken and no data was recorded without participants' consent. 
-Participants that agreed to be part of this document are listed as co-author in [cite as](#cite_as) section.
+Participants that agreed to be part of this document are listed as co-author in the [cite as](#cite_as) section.
 
 ---
 
@@ -159,7 +159,7 @@ You can get involved with this community in different ways:
 
 - To contribute to this document, [create an issue](https://github.com/cewebbr/right-to-reality/issues)
 - To engage with this commumity, [look out for the next events](#events)
-- To learn more, [checkout the list of materials and related publications](#publications)
+<!-- - To learn more, [checkout the list of materials and related publications](#publications) -->
 
 ---
 
@@ -167,7 +167,7 @@ You can get involved with this community in different ways:
 
 | Event | Where | When |
 | --- | --- | --- |
-| In-person participatory workshop [Speculative Futures in a Majority World with no Right to Reality](https://facctconference.org/2026/acceptedcraft.html) | Le Centre Sheraton Montréal Hotel, Montreal, Canada | June 25th, 2026, 14:15 ET |
+| ~In-person participatory workshop [Speculative Futures in a Majority World with no Right to Reality](https://facctconference.org/2026/acceptedcraft.html)~ | ~Le Centre Sheraton Montréal Hotel, Montreal, Canada~ | ~June 25th, 2026, 14:15 ET~ |
 
 ---
 
