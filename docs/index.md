@@ -141,7 +141,7 @@ Examples of headlines proposed by workshop participants include:
 - Proof of Humanity Required for Online Content: Who Can Prove That They Are Human
 - Human Verification Center Now Open; You Can Skip the Line For a Fee
 
-After defining the headlines, each group shared them with all participants. With the two news headlines in hands, groups were invited to reflect on 5-10 principles for a manifesto to address issues idenfied in the headlines, as a way to anticipate critical scenarios from these speculatuve futures.
+After defining the headlines, each group shared them with all participants. With the two news headlines in hands, groups were invited to reflect on 5-10 principles for a manifesto to address issues identified in the headlines, as a way to anticipate critical scenarios from these speculatuve futures.
 
 Groups registered principles on sticky notes and worked on this task for about 50min. Each group then shared principles with all participants and proposed an initial affinity clustering. 
 Each new group presenting could reuse or create new clusters. 
