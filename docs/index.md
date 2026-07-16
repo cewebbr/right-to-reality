@@ -120,7 +120,7 @@ Then, a context for the term Majority World was presented, contrasting what has 
 After the initial introduction, the participatory practice took place. For this, four groups of 4-6 people were formed. 
 A total of 21 conference attendees participated in the session. 
 Each group focused on one of the four scenarios from the 2x2 scenario matrix (Figure 2). 
-Groups were then invided to think about two headlines of a newspaper 10 years from now, considering the scenario assinged to the group.
+Groups were then invided to think about two headlines of a newspaper 10 years from now, considering the scenario assigned to the group.
 
 The goal of this speculative design was to serve as a 'probe' for highlighting legal and ethical aspects ([Dunne and Raby, 2013](https://mitpress.mit.edu/9780262019842/speculative-everything/)).
 An initial set of artifacts was provided to trigger discussions (Figure 3), including a user interface with a toggle for AI content, LLM-vegan bumper sticker, a label 100% AI-free (as an analogy to 100% gluten free), and a notebook sticker that reads infovegan to represent people that opt to consume information as close to the its source as possible ([Clay, 2008](https://www.amazon.com.br/Information-Diet-Ca-Johnson/dp/1491933399)).
