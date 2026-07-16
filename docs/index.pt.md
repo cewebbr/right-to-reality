@@ -90,7 +90,7 @@ As pessoas devem compreender as capacidades e limitações da Inteligência Arti
 
 ## Sobre
 
-Esta iniciativa nasceu a partir da proposta de uma sessão CRAFT (*Critiquing and Rethinking Accountability, Fairness, and Transparency*), na [ACM Conference on Fairness, Accountability, and Transparency](https://facctconference.org/) (FAccT 2026), intitulada "[Futuros Especulativos em um Mundo Majoritário sem Direito à Realidade](https://facctconference.org/2026/acceptedcraft.html)."
+Esta iniciativa nasceu a partir da proposta de uma sessão CRAFT (*Critiquing and Rethinking Accountability, Fairness, and Transparency*), na [ACM Conference on Fairness, Accountability, and Transparency](https://facctconference.org/) (FAccT 2026), intitulada "[Speculative Futures in a Majority World with no Right to Reality](https://facctconference.org/2026/acceptedcraft.html)".
 
 ### Descrição Original da Sessão CRAFT
 
