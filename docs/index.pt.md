@@ -193,24 +193,22 @@ Você pode participar desta comunidade de diferentes maneiras:
 
 ## Como citar {#cite_as}
 
-Right to Reality Manifesto. 2026.
-
-Santana, V. F.,  
-Cortiz, D.,  
-Rocha, B.,  
-Custodio, J.,  
-Xavier, H. S.,  
-Carichon, F.,  
-Chien, J.,  
-Ganesh, P.,  
-He, J.,  
-Kraft, A.,  
-Schertel, L. N. da C.,  
-Shukla, N.
-
-https://cewebbr.github.io/right-to-reality/
-
-Versão 1.0.
+Santana, V. F., 
+Cortiz, D., 
+Rocha, B., 
+Custodio, J., 
+Xavier, H. S., 
+Carichon, F.,
+Chien, J., 
+Ganesh, P.,
+He, J.
+Kraft, Ag., 
+Schertel, L. N. da C., 
+Shukla, N.,
+2026.
+Right to Reality Manifesto.
+https://cewebbr.github.io/right-to-reality/. 
+Version 1.0.
 
 ```bib
 @online{Santana_et_al_2026,
