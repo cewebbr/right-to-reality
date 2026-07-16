@@ -1,40 +1,77 @@
-<div class="header__title">
-  <a href="{{ site.baseurl }}/">{{ site.title }}</a>
-</div>
+{%- assign default_paths = site.pages | map: "path" -%}
+{%- assign page_paths = site.header_pages | default: default_paths -%}
+{%- assign titles_size = site.pages | where_exp: 'page', 'page.title.size > 0' | size -%}
 
-<nav class="header__nav" aria-label="Language navigation">
-  <input
-    class="header__nav-toggle"
-    id="nav-toggle"
-    type="checkbox"
-    aria-checked="false"
-    tabindex="0"
-    onclick="updateCheckedAria(event)"
-    onkeydown="updateCheckedAria(event)"
-  >
+<header class="header">
+  <div class="header__container">
+    <div class="header__title">
+      {%- if page.layout == 'home' -%}
+      <h1><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
+      {%- else -%}
+      <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
+      {%- endif -%}
+    </div>
 
-  <label for="nav-toggle" aria-label="show/hide the navigation menu">
-    ☰
-  </label>
+    {%- if titles_size > 0 -%}
+    <nav class="header__nav">
+      <input
+        class="header__nav-toggle"
+        id="nav-toggle"
+        type="checkbox"
+        aria-checked="false"
+        tabindex="0"
+        onclick="updateCheckedAria(event)"
+        onkeydown="updateCheckedAria(event)"
+      />
 
-  <ul class="header__links">
-    {% for lang in site.languages %}
-      {% assign localized_page = site.pages | where: "lang", lang | first %}
-      {% assign localized_title = localized_page.title | default: lang %}
-      {% assign href = site.baseurl | append: "/" %}
-      {% if lang != site.default_lang %}
-        {% assign href = site.baseurl | append: "/index." | append: lang | append: "/" %}
-      {% endif %}
+      <label for="nav-toggle" aria-label="show/hide the navigation menu">
+        <!-- unicode trigram -->
+        &#9776;
+      </label>
 
-      <li class="header__link">
-        <a
-          href="{{ href }}"
-          aria-label="{{ localized_title }}"
-          class="{% if lang == site.active_lang %}active{% endif %}"
-        >
-          {{ localized_title }}
-        </a>
-      </li>
-    {% endfor %}
-  </ul>
-</nav>
+      <ul class="header__links">
+      {%- for path in page_paths -%}
+        {%- assign header-link = site.pages | where: "path", path | first -%}
+        {%- if header-link.title -%}
+        <li class="header__link">
+          <a
+            href="{{ header-link.url | relative_url }}"
+            aria-label="{{ header-link.title | escape }}"
+            {% if header-link.url == page.url %}
+            class="active"
+            {% endif %}
+            >
+            {{ header-link.title | escape }}
+          </a>
+        </li>
+        {%- endif -%}
+      {%- endfor -%}
+      </ul>
+    </nav>
+    {%- endif -%}
+  </div>
+</header>
+
+<script>
+  const header = document.querySelector('.header')
+  const container = header.querySelector('.header__container')
+  const trigger = header.offsetHeight - container.offsetTop
+
+  window.addEventListener("scroll", (event) => {
+    if (window.scrollY > trigger) {
+      header.classList.add('header--pinned')
+    } else {
+      header.classList.remove('header--pinned')
+    }
+  })
+
+  function updateCheckedAria(event) {
+    const spacebarKeyCode = 32
+    const checkbox = event.target
+
+    if (event.keyCode && event.keyCode !== spacebarKeyCode) {
+      return
+    }
+    checkbox.setAttribute('aria-checked', checkbox.checked)
+  }
+</script>

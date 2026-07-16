@@ -29,6 +29,11 @@ default_lang: "en"
 parallel_localization: false
 exclude_from_localization: ["javascript", "images", "css"]
 
+header_pages:
+  - index.md
+  - index.pt.md
+  - index.es.md
+
 feed:
   enabled: false
   
