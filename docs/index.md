@@ -189,7 +189,6 @@ You can get involved with this community in different ways:
 
 ## Cite as
 
-Right to Reality Manifesto. 2026. 
 Santana, V. F., 
 Cortiz, D., 
 Rocha, B., 
@@ -202,6 +201,8 @@ He, J.
 Kraft, Ag., 
 Schertel, L. N. da C., 
 Shukla, N.,
+2026.
+Right to Reality Manifesto.
 https://cewebbr.github.io/right-to-reality/. 
 Version 1.0.
 
