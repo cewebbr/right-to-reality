@@ -45,7 +45,7 @@ As pessoas devem consentir quando interagirem com conteúdos sintéticos.
 Organizações que criam, implantam e monetizam tecnologias não devem transferir para os indivíduos a responsabilidade pelos riscos e consequências decorrentes do uso dessas tecnologias.
 
 ### 7. Poder para o consumidor
-As pessoas devem poder optar facilmente por receber ou não conteúdos gerados por IA, bem como permitir ou não a coleta de seus dados. Por exemplo, deve ser possível exercer o direito de impedir que seus dados sejam utilizados no treinamento de modelos responsáveis pela geração de conteúdo sintético por meio de uma única ação (como um clique, toque, gesto, comando de voz etc.).
+As pessoas devem poder optar facilmente por receber ou não conteúdos gerados por IA, bem como permitir ou não a coleta de seus dados. Por exemplo, deve ser possível exercer o direito de impedir que seus dados sejam utilizados no treinamento de modelos responsáveis pela geração de conteúdo sintético por meio de uma única ação (como um clique, toque, gesto, comando de voz, etc.).
 
 ### 8. A influência da IA em assuntos de interesse público deve ser limitada
 A sociedade deve estabelecer limites para a influência da IA em assuntos de interesse público.
