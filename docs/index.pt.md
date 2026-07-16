@@ -198,8 +198,6 @@ Você pode participar desta comunidade de diferentes maneiras:
 
 ---
 
-## Histórico de Versões
+## Changelog
 
-| Versão | Data | Observações |
-| --- | --- | --- |
-| 1.0 | 1º de julho de 2026 | Consolidação dos resultados da oficina participativa organizada como parte da programação da FAccT 2026. |
+{% include changelog.md %}

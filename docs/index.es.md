@@ -198,8 +198,6 @@ Puedes participar en esta comunidad de diferentes maneras:
 
 ---
 
-## Historial de cambios
+## Changelog
 
-| Versión | Fecha | Cambios |
-| --- | --- | --- |
-| 1.0 | 1 de julio de 2026 | Consolidación de los resultados del taller participativo organizado como parte de FAccT 2026. |
+{% include changelog.md %}
