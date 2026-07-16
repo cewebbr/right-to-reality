@@ -153,3 +153,92 @@ A versão 1.0 do Manifesto pelo Direito à Realidade apresentada neste documento
 Por fim, considerando que a [Regra da Chatham House](https://www.chathamhouse.org/about-us/chatham-house-rule) foi adotada durante toda a sessão, nenhuma gravação em vídeo foi realizada e nenhum dado foi coletado sem o consentimento dos participantes.
 Os participantes que concordaram em fazer parte deste documento estão listados como coautores na seção [Como citar](#cite_as).
 
+### Aviso
+
+O presente **Manifesto pelo Direito à Realidade** é resultado da oficina realizada na FAccT 2026, do engajamento contínuo da comunidade online e de eventos subsequentes que vêm expandindo este documento vivo, incluindo sua missão, valores e princípios. Todos os coautores listados e colaboradores não listados contribuíram em caráter pessoal, e não como representantes de qualquer organização. Todos os itens aqui apresentados refletem uma visão ampla sobre a necessidade do **Direito à Realidade** no contexto de conteúdos sintéticos gerados por modelos de Inteligência Artificial. Portanto, não se espera que todos os participantes concordem integralmente com cada item deste documento.
+
+O Centro de Estudos sobre Tecnologias Web (Ceweb.br) atua como elo entre profissionais e a sociedade na construção deste documento, mediando a forma como diferentes partes interessadas externalizam preocupações, ideias e propostas de solução relacionadas ao conteúdo sintético.
+
+Este Manifesto não representa as posições oficiais do **Núcleo de Informação e Coordenação do Ponto BR (NIC.br)** nem do **Comitê Gestor da Internet no Brasil (CGI.br)**.
+
+---
+
+## Participe
+
+Você pode participar desta comunidade de diferentes maneiras:
+
+- Para contribuir com este documento, [crie uma issue](https://github.com/cewebbr/right-to-reality/issues)
+- Para participar desta comunidade, [acompanhe os próximos eventos](#events)
+<!-- - Para saber mais, [consulte a lista de materiais e publicações relacionadas](#publications) -->
+
+---
+
+## Eventos
+
+| Evento | Local | Data |
+| --- | --- | --- |
+| Oficina participativa presencial [Speculative Futures in a Majority World with no Right to Reality](https://facctconference.org/2026/acceptedcraft.html) | Le Centre Sheraton Montréal Hotel, Montreal, Canadá | 25 de junho de 2026, 14h15 (ET) |
+
+---
+
+<!-- ## Publicações -->
+
+<!-- Em breve -->
+
+<!-- --- -->
+
+<!-- ## Signatários -->
+
+<!-- - [Lista de pessoas e organizações que assinam este documento] -->
+
+## Como citar {#cite_as}
+
+Right to Reality Manifesto. 2026.
+
+Santana, V. F.,  
+Cortiz, D.,  
+Rocha, B.,  
+Custodio, J.,  
+Xavier, H. S.,  
+Carichon, F.,  
+Chien, J.,  
+Ganesh, P.,  
+He, J.,  
+Kraft, A.,  
+Schertel, L. N. da C.,  
+Shukla, N.
+
+https://cewebbr.github.io/right-to-reality/
+
+Versão 1.0.
+
+```bib
+@online{Santana_et_al_2026,
+  author = {
+    Vagner Figueredo de Santana and
+    Diogo Cortiz and
+    Beatriz Rocha and
+    Jacqueline Custodio and
+    Henrique S. Xavier and
+    Florian Carichon and
+    Jennifer Chien and
+    Prakhar Ganesh and
+    Jessica He and
+    Angelie Kraft and
+    Lara Neubauer da Costa Schertel and
+    Nishanshi Shukla
+  },
+  title = {Right to Reality Manifesto},
+  year = {2026},
+  url = {https://cewebbr.github.io/right-to-reality/},
+  note = {Versão 1.0}
+}
+```
+
+---
+
+## Histórico de Versões
+
+| Versão | Data | Observações |
+| --- | --- | --- |
+| 1.0 | 1º de julho de 2026 | Consolidação dos resultados da oficina participativa organizada como parte da programação da FAccT 2026. |
