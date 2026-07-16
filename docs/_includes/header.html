@@ -1,20 +1,40 @@
-<div class="header__title"><a href="/right-to-reality/">Right to Reality</a></div>
+<div class="header__title">
+  <a href="{{ site.baseurl }}/">{{ site.title }}</a>
+</div>
 
-<nav class="header__nav">
-<input class="header__nav-toggle" id="nav-toggle" type="checkbox" aria-checked="false" tabindex="0" onclick="updateCheckedAria(event)" onkeydown="updateCheckedAria(event)">
+<nav class="header__nav" aria-label="Language navigation">
+  <input
+    class="header__nav-toggle"
+    id="nav-toggle"
+    type="checkbox"
+    aria-checked="false"
+    tabindex="0"
+    onclick="updateCheckedAria(event)"
+    onkeydown="updateCheckedAria(event)"
+  >
 
-<label for="nav-toggle" aria-label="show/hide the navigation menu">
-<!-- unicode trigram -->
-☰
-</label>
+  <label for="nav-toggle" aria-label="show/hide the navigation menu">
+    ☰
+  </label>
 
-<ul class="header__links">   
+  <ul class="header__links">
     {% for lang in site.languages %}
-    <li class="header__link">
-        <a href="{{ site.baseurl }}{% if lang != site.default_lang %}/index.{{ lang }}/{% endif %}/" aria-label="Right to Reality Manifesto" class="active">
-            {{ lang }}
+      {% assign localized_page = site.pages | where: "lang", lang | first %}
+      {% assign localized_title = localized_page.title | default: lang %}
+      {% assign href = site.baseurl | append: "/" %}
+      {% if lang != site.default_lang %}
+        {% assign href = site.baseurl | append: "/index." | append: lang | append: "/" %}
+      {% endif %}
+
+      <li class="header__link">
+        <a
+          href="{{ href }}"
+          aria-label="{{ localized_title }}"
+          class="{% if lang == site.active_lang %}active{% endif %}"
+        >
+          {{ localized_title }}
         </a>
-    </li>
+      </li>
     {% endfor %}
-</ul>
+  </ul>
 </nav>

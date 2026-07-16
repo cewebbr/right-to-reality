@@ -1,5 +1,6 @@
 ---
 layout: default
+lang: es
 title: Right to Reality Manifesto
 description: Nuestra misión es garantizar que cualquier ser humano pueda distinguir fácilmente entre contenido multimedia real y sintético.
 ---

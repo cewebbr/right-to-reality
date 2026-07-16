@@ -1,5 +1,6 @@
 ---
 layout: default
+lang: pt
 title: Manifesto pelo Direito à Realidade
 description: Nossa missão é garantir que qualquer ser humano possa distinguir facilmente entre conteúdos multimídia reais e sintéticos.
 ---
