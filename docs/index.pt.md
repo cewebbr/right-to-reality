@@ -128,7 +128,7 @@ Um conjunto inicial de artefatos foi disponibilizado para estimular as discussõ
 
 <div style="text-align: center;">
 <img src="/right-to-reality/assets/images/card_settings.png" width="30%" alt="Botão para ativar/desativar conteúdo gerado por IA.">
-<img src="/right-to-reality/assets/images/card_ai_free_community.png" width="30%" alt="Adesivo LLM-vegan.">
+<img src="/right-to-reality/assets/images/card_ai_free_community.png" width="30%" alt="Placa AI-Free Community.">
 <img src="/right-to-reality/assets/images/card_infovegan.png" width="30%" alt="Adesivo Infovegan.">
 <img src="/right-to-reality/assets/images/card_self_disclosure.png" width="30%" alt="Autodeclaração em um mundo pós-CAPTCHA contendo dois botões: (1) Sou predominantemente orgânico; (2) Sou predominantemente sintético.">
 <img src="/right-to-reality/assets/images/card_made_by_human.png" width="30%" alt="Adesivo com a frase 'Feito por Humanos – Não Gerado por IA'.">
