@@ -24,7 +24,7 @@ plugins:
   # - github-pages
   - jekyll-polyglot
 
-languages: ["en", "pt"]
+languages: ["en", "pt", "es"]
 default_lang: "en"
 exclude_from_localization: ["javascript", "images", "css"]
 

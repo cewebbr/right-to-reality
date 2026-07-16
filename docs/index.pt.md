@@ -169,11 +169,11 @@ Você pode participar desta comunidade de diferentes maneiras:
 
 - Para contribuir com este documento, [crie uma issue](https://github.com/cewebbr/right-to-reality/issues)
 - Para participar desta comunidade, [acompanhe os próximos eventos](#events)
-<!-- - Para saber mais, [consulte a lista de materiais e publicações relacionadas](#publications) -->
+- Para saber mais, [consulte a lista de materiais e publicações relacionadas](#publications)
 
 ---
 
-## Eventos
+## Eventos {#events}
 
 | Evento | Local | Data |
 | --- | --- | --- |
@@ -181,11 +181,11 @@ Você pode participar desta comunidade de diferentes maneiras:
 
 ---
 
-<!-- ## Publicações -->
+## Publicações {#publications}
 
-<!-- Em breve -->
+1.	Santana, V. F., Cortiz, D., Rocha, B., Custodio, J., Xavier, H. S., 2026. Speculative Futures in a Majority World with no Right to Reality. In Proceedings of FAccT ’26: ACM Conference on Fairness, Accountability, and Transparency, 2026.
 
-<!-- --- -->
+---
 
 <!-- ## Signatários -->
 
