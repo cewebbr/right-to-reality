@@ -119,7 +119,7 @@ Figura 2. Matriz de cenários 2x2 (adaptada de [UN Global Pulse, 2025](https://f
 Em seguida, foi apresentado o contexto do termo Mundo Majoritário (*Majority World*), em contraste com expressões anteriormente utilizadas, como "Terceiro Mundo", "Mundo em Desenvolvimento" ou "Países Menos Desenvolvidos" ([Alam, 2008](https://www.tandfonline.com/doi/abs/10.17953/amer.34.1.l3176027k4q614v5)). O termo Mundo Majoritário busca destacar que os países normalmente posicionados em categorias inferiores pertencem, na realidade, ao grupo que representa a maior parte da humanidade, desafiando a retórica ocidental sobre democracia ([Alam, 2008](https://www.tandfonline.com/doi/abs/10.17953/amer.34.1.l3176027k4q614v5)).
 
 Após a introdução inicial, teve início a atividade participativa. Para isso, foram formados quatro grupos de 4 a 6 pessoas.
-Ao todo, **21 participantes da conferência** participaram da sessão.
+Ao todo, **21 participantes da conferência** fizeram parte da sessão.
 Cada grupo ficou responsável por um dos quatro cenários da matriz de cenários 2x2 (Figura 2).
 Em seguida, os grupos foram convidados a imaginar duas manchetes de jornal publicadas dez anos no futuro, considerando o cenário atribuído ao grupo.
 
