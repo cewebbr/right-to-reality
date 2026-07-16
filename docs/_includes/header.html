@@ -1,0 +1,5 @@
+<nav class="lang-menu">
+  {% for lang in site.languages %}
+    <a href="{{ site.baseurl }}{% if lang != site.default_lang %}/{{ lang }}{% endif %}/">{{ lang }}</a>
+  {% endfor %}
+</nav>
