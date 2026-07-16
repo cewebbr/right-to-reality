@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+Thumbs.db
+
+# Jekyll build output
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Ruby/Bundler
+.bundle/
+vendor/
+
+# Node dependencies
+node_modules/
