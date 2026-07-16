@@ -26,6 +26,7 @@ plugins:
 
 languages: ["en", "pt", "es"]
 default_lang: "en"
+parallel_localization: false
 exclude_from_localization: ["javascript", "images", "css"]
 
 feed:
