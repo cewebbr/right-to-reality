@@ -60,10 +60,10 @@
   window.addEventListener("scroll", (event) => {
     if (window.scrollY > trigger) {
       header.classList.add('header--pinned')
-      header.style.setAttribute('display', 'block')
+      container.style.setProperty("display", "block")
     } else {
       header.classList.remove('header--pinned')
-      header.style.setAttribute('display', 'flex')
+      container.style.setProperty("display", "flex")
     }
   })
 
