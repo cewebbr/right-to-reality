@@ -1,5 +1,20 @@
-<nav class="lang-menu">
-  {% for lang in site.languages %}
-    <a href="{{ site.baseurl }}{% if lang != site.default_lang %}/{{ lang }}{% endif %}/">{{ lang }}</a>
-  {% endfor %}
+<div class="header__title"><a href="/right-to-reality/">Right to Reality</a></div>
+
+<nav class="header__nav">
+<input class="header__nav-toggle" id="nav-toggle" type="checkbox" aria-checked="false" tabindex="0" onclick="updateCheckedAria(event)" onkeydown="updateCheckedAria(event)">
+
+<label for="nav-toggle" aria-label="show/hide the navigation menu">
+<!-- unicode trigram -->
+☰
+</label>
+
+<ul class="header__links">   
+    {% for lang in site.languages %}
+    <li class="header__link">
+        <a href="{{ site.baseurl }}{% if lang != site.default_lang %}/index.{{ lang }}/{% endif %}/" aria-label="Right to Reality Manifesto" class="active">
+            {{ lang }}
+        </a>
+    </li>
+    {% endfor %}
+</ul>
 </nav>
