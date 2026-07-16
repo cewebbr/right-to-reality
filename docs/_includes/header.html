@@ -57,14 +57,15 @@
   const container = header.querySelector('.header__container')
   const trigger = header.offsetHeight - container.offsetTop
   
-  container.style.setAttribute('display', 'block')
-  
   window.addEventListener("scroll", (event) => {
     if (window.scrollY > trigger) {
+      container.style.setAttribute('display', 'block')
       header.classList.add('header--pinned')
+      
       
     } else {
       header.classList.remove('header--pinned')
+      container.style.setAttribute('display', 'flex')
     }
   })
 
