@@ -1,0 +1,1 @@
+1.	Santana, V. F., Cortiz, D., Rocha, B., Custodio, J., Xavier, H. S., 2026. Speculative Futures in a Majority World with no Right to Reality. In Proceedings of FAccT ’26: ACM Conference on Fairness, Accountability, and Transparency, 2026.
